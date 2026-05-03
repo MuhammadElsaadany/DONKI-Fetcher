@@ -1,4 +1,4 @@
-# Quantamium 2.0
+# DONKI-Fetcher
 A script that fetches data using NASA DONKI API, parses data into clean SQL, allows detecting anomalies and logs them.
 
 -------------------------------------------------------
